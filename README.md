@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I am Elliott!
 
-<!--
-**emhgit/emhgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school developer passionate about fullstack web development, automation, and data analysis.
 
-Here are some ideas to get you started:
+- Currently working on a full-stack **chess web app**
+- Built a **stock tracker** that collects minute-by-minute data using Google Apps Script
+- Skilled in **Java, Spring Boot, SQL, JavaScript**, and **Google Apps Script**
+- Open to freelance work and collaborations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Can Do for You
+- Build or automate custom websites and dashboards
+- Create Google Apps Scripts to streamline your business (e.g., data collection, reports)
+- Develop custom backend APIs or database-driven tools
+
+**Let’s connect!**  
+Email: eharper0815@gmail.com  
+Portfolio (coming soon)
+
+Check out my pinned projects below!
