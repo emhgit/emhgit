@@ -1,6 +1,6 @@
 # Hi, I am Elliott!
 
-I'm a high school developer passionate about fullstack web development, automation, and data analysis.
+Hi, I am Elliott, a full stack developer passionate about web development, automation, and data analysis.
 
 - Currently working on a full-stack **chess web app**
 - Built a **stock tracker** that collects minute-by-minute data using Google Apps Script
