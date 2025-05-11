@@ -2,7 +2,7 @@
 
 Hi, I am Elliott, a full stack developer passionate about web development, automation, and data analysis.
 
-- Built a **economic data visuazier** that displays economic indicators from the World Bank API
+- Built an **economic data visuazier** that displays economic indicators from the World Bank API
 - Built a **stock tracker** that collects minute-by-minute data using Google Apps Script
 - Skilled in **JavaScript, Java, Spring Boot, SQL**, and **Google Apps Script**
 - Open to freelance work and collaborations
