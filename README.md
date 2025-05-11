@@ -2,7 +2,7 @@
 
 Hi, I am Elliott, a full stack developer passionate about web development, automation, and data analysis.
 
-- Currently working on a full-stack **chess web app**
+- Built a **economic data visuazier** that displays economic indicators from the World Bank API
 - Built a **stock tracker** that collects minute-by-minute data using Google Apps Script
 - Skilled in **JavaScript, Java, Spring Boot, SQL**, and **Google Apps Script**
 - Open to freelance work and collaborations
@@ -14,7 +14,7 @@ Hi, I am Elliott, a full stack developer passionate about web development, autom
 - Develop custom backend APIs or database-driven tools
 
 **Let’s connect!**  
-Email: eharper0815@gmail.com  
+Email: (coming soon)
 Portfolio (coming soon)
 
 Check out my pinned projects below!
