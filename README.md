@@ -10,8 +10,8 @@ Hi, I am Elliott, a full stack developer passionate about web development, autom
 ## 💼 What I Can Do for You
 - Build custom websites and dashboards
 - Fix code bugs
-- Create Google Apps Scripts to streamline your business (e.g., data collection, reports)
-- Develop custom backend APIs or database-driven tools
+- Create Google Apps Scripts to streamline your business (e.g., data collection, email automation, etc.)
+- Develop custom chatbots for Discord, Telegram, etc.
 
 Email: eharper0815@gmail.com
 Portfolio (coming soon)
