@@ -13,8 +13,7 @@ Hi, I am Elliott, a full stack developer passionate about web development, autom
 - Create Google Apps Scripts to streamline your business (e.g., data collection, reports)
 - Develop custom backend APIs or database-driven tools
 
-**Let’s connect!**  
-Email: (coming soon)
+Email: eharper0815@gmail.com
 Portfolio (coming soon)
 
 Check out my pinned projects below!
