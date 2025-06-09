@@ -14,6 +14,7 @@ Hi, I am Elliott, a full stack developer passionate about web development, autom
 - Develop custom chatbots for Discord, Telegram, etc.
 
 Email: eharper0815@gmail.com
-Portfolio (coming soon)
+Discord: anom7985
+Portfolio: (WIP) https://emhgit.github.io/portfolio/
 
 Check out my pinned projects below!
