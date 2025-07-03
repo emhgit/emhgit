@@ -13,6 +13,6 @@ Email: eharper0815@gmail.com
 
 Discord: anom7985
 
-Portfolio: (WIP) https://emhgit.github.io/portfolio/
+Poersonal Website: https://emhgit.github.io/portfolio/
 
 Check out my pinned projects below!
