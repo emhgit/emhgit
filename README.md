@@ -1,4 +1,3 @@
 # Hi, I am Elliott!
 
-- Skilled in **JavaScript/TypeScript, Java, Python, and SQL**
-- Open to freelance work and collaborations
+- Skilled in **JavaScript/TypeScript, Java, C++, Python, and SQL**
